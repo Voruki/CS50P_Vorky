@@ -1,0 +1,8 @@
+# For the project.py, we need the following pip-installable libraries:
+
+turtle
+pygame
+
+# For the test_project.py, we need the following pip-installable library:
+
+pytest
