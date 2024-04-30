@@ -7,7 +7,7 @@
 ## ‎ 
 ![Thumbnail](./README_Materials/Thumbnail.png)
 ### Final Project: [Simple Table Tennis Game 🏓](https://www.youtube.com/watch?v=7wL_XpK6ztc)
-#### In contrast to other accounts, I have included both my project codes and test codes within this repository for reference purposes, aiding others in crafting their own final projects for this course. Please be aware that the program is designed to operate solely on Windows devices.
+### In contrast to other accounts, I have included both my project codes and test codes within this repository for reference purposes, aiding others in crafting their own final projects for this course. Please be aware that the program is designed to operate solely on Windows devices.
 
 <br/>
 
