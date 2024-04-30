@@ -82,8 +82,8 @@
 ### [Week 9](/Week_9/) - [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
 
 ### [Final Week](/Week_Final/) - [Final Project](https://cs50.harvard.edu/python/2022/project/)
-- [Project and Project Test Codes](/Week_Final/Project_Codes/)
-- [Musics and Graphics Library](/Week_Final/Musics_and_Graphics/)
-- [Requirements and README](/Week_Final/)
+- [Project and Project Test Codes](/Week_Final/Final_Project/Project_Codes/)
+- [Musics and Graphics Library](/Week_Final/Final_Project/Musics_and_Graphics/)
+- [Requirements and README](/Week_Final/Final_Project/)
 
 <br/>
