@@ -1,6 +1,7 @@
 # CS50’s Introduction to Programming with Python 🐍
 [![Certificate](./README_Materials/Vorky_CS50P_Certificate.png)](https://certificates.cs50.io/5858ed45-fe4c-4932-9edb-afc616c0ca4c.png?size=letter)
 ### Above are my proposed solutions for CS50's Introduction to Programming with Python, 2024 edition.
+### Each solution to the problem sets contained within this repository is meticulously annotated with comments, aiming to facilitate a deeper understanding of the code's logic and execution flow for all python beginneers, just like me!
 
 <br/>
 
